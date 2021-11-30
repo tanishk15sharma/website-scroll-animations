@@ -2,9 +2,10 @@
     max-width: 600px;
     background-color: white;
     margin: auto;
-    padding: 2rem;
+    padding: 40px;
     margin-top: 4rem;
     margin-bottom: 3rem;
+    text-align: justify;
     
     
 }
@@ -12,5 +13,26 @@ body{
     background-color: lightgray;
     font-family:sans-serif;
 }
+
+html {
+    box-sizing: border-box;
+}
+.car-img{
+    width: 60%;
+}
+
+
+.align-left {
+    float: left;
+    margin-right: 20px;
+
+
+}
+.align-right {
+    float: right;
+    margin-left: 20px;
+}
+
+
 
 
